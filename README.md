@@ -1,5 +1,11 @@
 # fea-1D-bar
-Code written in MATLAB to solve FEA 1D Linear bar element problems
+Code written in MATLAB to solve FEA 1D Linear bar element problems 
+Created as a Mini Project with fellow contributors: 
+
+* Guru Prasaath P 
+* David Smith Sundarsingh 
+* Gopi Karthick R 
+
 ### Script file: 
 Linear_bar_selfWeight_final2.m is the script file which has the finite element code 
 ### Code: 
