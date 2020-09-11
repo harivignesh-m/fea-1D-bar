@@ -1,5 +1,6 @@
 # fea-1D-bar
 Code written in MATLAB to solve FEA 1D Linear bar element problems 
+
 Created as a Mini Project with fellow contributors: 
 
 * Guru Prasaath P 
