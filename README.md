@@ -97,7 +97,9 @@ disp(FGlobal);
 X = pinv(KGlobal)*FGlobal;
 for i=1:m+1
     fprintf('U%d = %.3fmm\n',i,X(i));
-end```
+end
+
+```
 
 
 
